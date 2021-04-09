@@ -16,3 +16,9 @@ following order- x1-->y1-->x2-->y2-->x3-->y3
 *After entering all values diameter and center of the circle will be displayed
 in the command windows itself and a plot of the circle will be displayed on a
 separate plot window.
+
+Scipt Window:
+![Script](https://user-images.githubusercontent.com/35322637/114135675-395b6f80-9927-11eb-9917-30e70bc52b18.png)
+
+Output Window:
+![Output](https://user-images.githubusercontent.com/35322637/114135720-49734f00-9927-11eb-80f1-fb51ae4c5f00.png)
