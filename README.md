@@ -5,7 +5,7 @@ Circle Visualization - 3 Point Method-V1.0
 This Script can be utilized to compute the diameter and center of a circle
 passing through any given 3 points.
 ==================================================================
-Data Required : 3 Points - (x1,y1,x2,y2,x3,y3)
+Data Required : 3 Points - (x1,y1),(x2,y2),(x3,y3)
 ==================================================================
 Steps to Run the Script:
 *Execute the Script as Usual.
